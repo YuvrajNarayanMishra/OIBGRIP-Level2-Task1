@@ -24,4 +24,4 @@ Its useful for simple calculations.
 
 ## How to Run?
 
-To run my application you simply need to clone the project and run the html file.
+To run my application you simply need to download the project and run the html file.
